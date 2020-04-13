@@ -2,6 +2,6 @@ pandoc: 2.9.2.1
 pkgdown: 1.5.1.9000
 pkgdown_sha: ~
 articles:
-  test: test.html
-last_built: 2020-04-13T14:31Z
+  test2: test2.html
+last_built: 2020-04-13T14:34Z
 
